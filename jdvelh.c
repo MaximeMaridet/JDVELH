@@ -45,7 +45,7 @@ int main(){
 	location = input;
 	switch (location) {
 		case 1:
-			printf ("You take the red door on your left.\n");
+			printf ("You take the blue door on your left.\n");
 			break;
 		case 2:
 			printf ("You take the metal door on your right.\n");

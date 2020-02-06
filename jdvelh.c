@@ -59,3 +59,4 @@ int main(){
 
 void deplacement (Chapter chapter) {
 	printf("%s\n", chapter.description);
+}
